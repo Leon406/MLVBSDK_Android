@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/beauty/build/
+/beauty/build/intermediates/javac/debug/classes/
+/lvb/build/
+/lvb/build/intermediates/javac/debug/classes/
+/player/build/
+/player/build/intermediates/javac/debug/classes/
+/xiaozhibo/build/
+/xiaozhibo/build/intermediates/javac/debug/classes/

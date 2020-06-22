@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./xiaozhibo/libs/upload/cos-android-sdk-5.4.6.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xiaozhibo/libs/upload/cos-android-sdk-5.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" group="Demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Demo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beauty/beauty.iml" filepath="$PROJECT_DIR$/.idea/modules/beauty/beauty.iml" group="Demo/beauty" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libsuperplayer/libsuperplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/libsuperplayer/libsuperplayer.iml" group="Demo/libsuperplayer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lvb/lvb.iml" filepath="$PROJECT_DIR$/.idea/modules/lvb/lvb.iml" group="Demo/lvb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/player.iml" filepath="$PROJECT_DIR$/.idea/modules/player/player.iml" group="Demo/player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xiaozhibo/xiaozhibo.iml" filepath="$PROJECT_DIR$/.idea/modules/xiaozhibo/xiaozhibo.iml" group="Demo/xiaozhibo" />
+    </modules>
+  </component>
+</project>

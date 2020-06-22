@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./xiaozhibo/libs/upload/okhttp-3.8.1.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xiaozhibo/libs/upload/okhttp-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
